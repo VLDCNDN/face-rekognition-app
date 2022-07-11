@@ -1,5 +1,5 @@
 # Face Rekognition WebApp
-Using AWS Rekognition, implemented in NodeJS/ExpressJS as backend and ReactJS for front end
+Using AWS Rekognition **AWS SDK for JavaScript v3**, implemented in NodeJS/ExpressJS as backend and ReactJS for front end
 
 **Face Detection**: The AWS Rekognition **DetectFaces** will return **bounding box** coordinates and we will use that value to crop the face, once crop will convert it to base64. 
 
