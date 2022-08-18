@@ -29,3 +29,5 @@ Using AWS Rekognition **AWS SDK for JavaScript v3**, implemented in NodeJS/Expre
 
 ### Sample
  ![Face Detection Sample](./bin/FaceDetection.png) 
+ 
+ NOTE: You can delete the client if you only wanted the backend part
